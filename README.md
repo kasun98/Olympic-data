@@ -32,6 +32,7 @@ This project entails a comprehensive analysis of the Tokyo Olympic dataset, focu
 
 7. **Visualization**:
    - Developed a comprehensive dashboard using Tableau Public to summarize key findings and insights.
+   -   https://public.tableau.com/views/Book1_17120794704690/Dashboard1?:language=en-US&:sid=59A8DA4A48164144A5D86E4A4B7E8451-0:0&:display_count=n&:origin=viz_share_link
   
      ![Dashboard 1](https://github.com/kasun98/Olympic-data/assets/63708260/5ed028c1-0798-4e7c-8abe-4d58d40ccfd4)
 
@@ -52,6 +53,7 @@ This project entails a comprehensive analysis of the Tokyo Olympic dataset, focu
 - `data/`: Contains the Tokyo Olympic dataset.
 - `notebooks/`: Includes notebooks for data analysis and transformation using Azure Databricks.
 - `dashboard/`: Holds files related to the Tableau Public dashboard.
+
 
 ## Getting Started
 
