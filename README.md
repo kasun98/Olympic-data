@@ -32,6 +32,9 @@ This project entails a comprehensive analysis of the Tokyo Olympic dataset, focu
 
 7. **Visualization**:
    - Developed a comprehensive dashboard using Tableau Public to summarize key findings and insights.
+  
+     ![Dashboard 1](https://github.com/kasun98/Olympic-data/assets/63708260/5ed028c1-0798-4e7c-8abe-4d58d40ccfd4)
+
 
 ## Tools Used
 
